@@ -2,6 +2,19 @@
 
 This project monitors driver's drowsiness , distress and accidents using camera and voice input. It alerts the driver and sends emergency messages to emergency contacts in driver's automatically.
 
+## 📸 Screenshots
+
+### GUI Interface
+![GUI Screenshot](assets/gui_screenshot.png)
+
+### Drowsiness Detection
+![Drowsiness Detected](assets/drowsiness_detected.png)
+
+### Emergency Message Sent
+![Message Sent](assets/message_sent.png)
+
+
+
 ## Features
 - Drowsiness detection using OpenCV
 - Voice distress detection with speech recognition
